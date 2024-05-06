@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alp</h1>
 <h3 align="center">Interested in Computer Engineering , System Engineering and Software Development.</h3>
-
-- 🔭 I’m currently working on **test projects**
-
-- 🌱 I’m currently learning **VueJS and Azure DevOps**
-
 - 💬 Ask me about **everything I will try to help you as much as I can**
-
-- 📫 How to reach me **alpbereket@outlook.com.tr**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alpbrkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpbrkt" height="30" width="40" /></a>
