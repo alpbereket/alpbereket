@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alp</h1>
-<h3 align="center">Interested in Computer Engineering , System Engineering and Software Development.</h3>
+<h3 align="center"> Interested in Computer Engineering </h3>
 - 💬 Ask me about **everything I will try to help you as much as I can**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
